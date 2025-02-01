@@ -7,10 +7,7 @@ import axios from 'axios'
 
 // Global variables
 global.owner = [
-  ['918360234087', 'Ｗ Ｈ Ｉ Ｔ Ｅ ４ ４ ４  ? ?', true], 
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['233533763772', 'Abraham Dwamena2.0', true],
-  ['233268374753', 'Abraham Dwamena3.0', true]
+  ['918714576235', 'Botserx3', true],
 ] 
 
 global.mods = ['917888755628','923184070915', '233268374753', '923184474176', '233268374753'] 
@@ -49,16 +46,16 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = '𝘟𝘭𝘪𝘤𝘰𝘯 𝘝𝘰𝘭 2'
+global.botname = '_p4x_ppx_007_'
 global.premium = 'true'
-global.packname = '𝙏𝙚𝙖𝙢 𝙓𝙇𝙄𝘾𝙊𝙉' 
-global.author = '@𝘮𝘥𝘹𝘭𝘪𝘤𝘰𝘯𝘷2' 
-global.menuvid = 'https://files.catbox.moe/yu3j54.mp4'
-global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
+global.packname = '_p4x_ppx_007_' 
+global.author = '@_p4x_ppx_007_' 
+global.menuvid = 'https://files.catbox.moe/19w5mw.mp4'
+global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VavHyDgD8SDyNZABvF09\n' 
+global.dygp = 'https://chat.whatsapp.com/G9iaqB9irDz6S2I2QuxmgK'
+global.fgsc = 'https://github.com/paapputtan2020/XLICON-V2-MD' 
+global.fgyt = 'https://www.youtube.com/@MaammusMediaOfficial'
+global.fgpyp = 'https://www.youtube.com/@MaammusMediaOfficial/'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
