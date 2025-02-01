@@ -19,7 +19,7 @@ handler.all = async function (m, conn) {
         audio: {
           url: vn
         },
-        mimetype: 'audio/mpeg',
+        mimetype: 'audio/mp4',
         ptt: true,
         waveform: [0,99,0,99,0,99,0],
         fileName: "_p4x_ppx_007_",
