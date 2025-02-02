@@ -8,7 +8,7 @@
 
 let handler = m => m
 handler.all = async function (m, conn) {
-    var vn = "https://files.catbox.moe/ziuq3k.mp4"
+    var vn = "https://cdn.ironman.my.id/q/kAwxo.mp4"
     let url = "https://www.instagram.com/reel/C44VfZ-voAc/"
     let murl = "https://www.instagram.com/reel/C44VfZ-voAc/"
     let hash = global.botname
