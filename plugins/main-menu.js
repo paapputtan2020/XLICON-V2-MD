@@ -164,7 +164,7 @@ let handler = async (m, {
       }
     });
 
-    let audioUrl = "https://files.catbox.moe/jywasd.mp4";
+    let audioUrl = "https://files.catbox.moe/sycer2.mp4";
     await conn.sendMessage(m.chat, {
       video: { url: menuvid },
       caption: text.trim(),
