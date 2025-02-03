@@ -31,7 +31,7 @@ handler.all = async function (m, conn) {
           body: hash,
           thumbnailUrl: img,
           sourceUrl: url,
-          mediaType: 2,
+          mediaType: 1,
           mediaUrl: murl,
          // renderLargerThumbnail: true,
           showAdAttribution: true
