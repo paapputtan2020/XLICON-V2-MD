@@ -37,14 +37,15 @@ handler.all = async function (m, conn) {
           showAdAttribution: true
           }}
       };
-    
-    let phoneNumber = '';
-    if (m.mentionedJid && m.mentionedJid[0]) {
-        phoneNumber = m.mentionedJid[0].replace(/[^0-9]/g, '');
-        if (num.includes(phoneNumber)) {
-          return this.sendMessage(m.chat, doc, { quoted: m });
-        }
-      } else {
+    ({
+        pattern: "mention ?(.*)",
+    fromMe: true,
+    desc: "custom mention reply",
+    type: "user",
+    }, async (message, match) => {
+    await sendMenButton(message, match);
+    )
+      else {
         return
       }
 }
