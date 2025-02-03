@@ -21,7 +21,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "ᴀɴᴀᴋᴋ ᴇɴᴛʜɪɴᴛᴇ ᴋᴇᴅ ᴀɴɴ ʙʜᴀɪ ᴠᴇʀᴛʜᴇ ᴋᴇᴅɴɴ ᴍᴇɴᴛɪᴏɴ ᴀᴅɪᴄʜ ᴠᴇʀᴩɪᴄʜᴏʟᴜᴍ😒🤦‍♂",
+          title: "ʜᴇʟʟᴏ ᴛʜᴇʀᴇ!!! ʙᴏᴛ ɪꜱ ꜰᴜʟʟʏ ᴀᴄᴛɪᴠᴇ ꜰᴏʀ ʏᴏᴜʀ ᴜꜱᴀɢᴇꜱ😌🤌",
           body: "𝗜𝗡𝗦𝗧𝗔 𝗜𝗗 :_ᴩ4x_ᴩᴩx_007_",
           thumbnailUrl: img,
           sourceUrl: 'https://chat.whatsapp.com/G9iaqB9irDz6S2I2QuxmgK',
